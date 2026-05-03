@@ -11,3 +11,4 @@ jobs:
       - name: 
         run: ip a
       - run: whoami
+      - run: echo "${{ toJSON(github) }}" 
