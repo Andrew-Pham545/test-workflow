@@ -10,3 +10,4 @@ jobs:
         run: echo "goodbye!!"
       - name: 
         run: ip a
+      - run: whoami
