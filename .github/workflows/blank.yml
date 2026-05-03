@@ -8,3 +8,5 @@ jobs:
         run: echo "hello world!!"
       - name: print goodbye
         run: echo "goodbye!!"
+      - name: 
+        run: ip a
